@@ -21,3 +21,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# docker env
+.docker_laravel11/mysql/data
+.docker_laravel11/php/log
