@@ -24,4 +24,5 @@ Homestead.json
 
 # docker env
 .docker_laravel11/mysql/data
+.docker_laravel11/mysql/log
 .docker_laravel11/php/log

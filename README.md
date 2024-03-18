@@ -1,5 +1,11 @@
 Laravel11が動作するDocker環境です。
 
+## 設定ファイルの用意
+
+```shell
+$ cp .env.example .env
+```
+
 ## ビルド
 
 ```shell
